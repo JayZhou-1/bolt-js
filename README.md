@@ -1,3 +1,8 @@
+# Original repo
+https://github.com/slackapi/bolt-js
+
+* setup env , similar to https://github.com/JayZhou-1/bolt-js/blob/main/examples/getting-started-typescript/.env.sample
+
 # Bolt ![Bolt logo](docs/assets/bolt-logo.svg) for JavaScript
 
 [![codecov](https://codecov.io/gh/slackapi/bolt-js/branch/main/graph/badge.svg?token=x4oCgiexvp)](https://codecov.io/gh/slackapi/bolt-js)
